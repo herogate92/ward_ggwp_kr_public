@@ -1,0 +1,44 @@
+ :: SITE	| ward.ggwp.kr
+ :: GITHUB	| github.com/herogate92/ward-ggwp-kr
+ :: DEV	BY	| herogate92@gmail.com | www.ggwp.kr@gmail.com
+||======WARD.GGWP.KR===================================================================================||
+||                                            `.--..`                                                  ||
+||                                           .:/++++//:-```                                            ||
+||                                         `/o+://++++++/:/:-`                                         ||
+||                                        -osso++::///+++++///:`                                       ||
+||                                      `/sssooss+/soo+++++++oo+.                                      ||
+||                                    `:ossssossss+ssssssoo/+ssso:`                                    ||
+||  .`                               .+yysssssyyyyossssssssssssyyyo-`                              ``` ||
+|| `...`                           `:syyyssssyyyyysssssssyyyysyyyyys+.                           `.... ||
+||  :---.`                         /syyyysssyyyyyyssssyyyyyyyysyyyyyso`                        `.---:. ||
+||  -/----..`                      .+syyssssyyyyyyssssyyyyyyyyyssysso-                      `..----:/` ||
+||  .+//:-----..`                   `-+sossyssssssssssssssyyyyyysso/`                   ``..----:://:  ||
+||  `+/////:-------..``               `-/osssssssooooossssyyyyso/:.                ``..------:::////-  ||
+||   ://///++//::--------.........``      .:shhhhyyyosyyhhhhy:.       ``........---------::/++//////`  ||
+||   `+://///++ooo+/::::::::::://///.      +hyssyyyyyyyyyyysyo-     `:///+/:::::::::://+oo+++////:/-   ||
+||    ./://////+ooooso+o+/////:::/:/+:`    ohyysssoo+ooossyyyyo    .//:::://////++++ooooo+//////::/    ||
+||     -/://////++ooooossss+++++++/////.`   /hysssoooooossyys-   .:////+++++++ossssoooo++//////::/`    ||
+||      -+//++oossssssssooo++o+o++++////:-`  -sssssossyyyyho  `.:////+ooooo+o+oooosssysssoo+///+/`     ||
+||       .oyssssssssssssyyyyyyysooooo+////:::-+ysooooooosyh/:::////+ooooosyyyyyysssssssssssssyy:       ||
+||        `osssyssssssyyyysysssyyyooo+++/:::::+soo+++++osyy:::://++oooosyyyssssyyyssssssssysss-        ||
+||          /ysssyyyyyyyyyyyyyyyyyyyso++++///:+s++/+/oossys:://++++ooyyyyyyyyyyyyyyyyyyysssyo`         ||
+||           .:+hhhhhhhhhhyyyhhhyyyyyyyo+oooososo+++ssssysysoooooosyyyyyhhhhhyyhhhhhhhhhhs/-           ||
+||              ./oyhhhhhyyyyyhhhhhyhyyyyssooosssoyso+ssssysoossyyyhhhhhyhhyyyyyyhhhhys+-              ||
+||                 `-+yyyhhhhhyyyyyyyssso+:::/yhyys+++osyhh+:::+ossyyyyyyyyhhhhhysyo:.`                ||
+||                    ``./oyyyyyyyhys+-``     ohyso++oshyhh.     `./syhyyyhyhys+-``                    ||
+||                        ``-:/+oso+-         odhysooyyyyhy`        ./ooo++:-.`                        ||
+||                               ``          `ydhyyyyyshhhh.          ``                               ||
+||                                           -ddddhyssyhhhds                                           ||
+||                                           +mdhhhssyyhddmd.                                          ||
+||                                          `dmmdhhyyyhdddmm:                                          ||
+||                                          /mmmdhhhhddddmmNs`                                         ||
+||                                         :mNNmmmmddhdddmmNNs`                                        ||
+||                                        .dNNNmmdddhhdddmNNNNs`                                       ||
+||                                       :dNNmmmmdddddddmNmNNNNs`                                      ||
+||                                      /mNNNNmmmmmmmmmmNmmNmNNNy`                                     ||
+||                                     .mNNNNNmmmmmmmNNmmmmmNNNNN:                                     ||
+||                                      omNNNNNNNNNNNmmddmmmNNNNy`                                     ||
+||                                       .hmNNNNNNNNmmmmmmNNNNd+`                                      ||
+||                                         .:oyhdmmmmmmmddhs+-`                                        ||
+||                                               ```....`                                              ||
+||=====================================================================================================||
